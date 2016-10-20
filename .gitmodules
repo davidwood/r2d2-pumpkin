@@ -1,0 +1,6 @@
+[submodule "TMRpcm"]
+	path = TMRpcm
+	url = https://github.com/TMRh20/TMRpcm
+[submodule "ServoTimer2"]
+	path = ServoTimer2
+	url = https://github.com/nabontra/ServoTimer2
